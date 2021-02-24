@@ -1,0 +1,1 @@
+This is Meder's first git project!
